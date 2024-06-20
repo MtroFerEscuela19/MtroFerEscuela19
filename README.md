@@ -1,0 +1,5 @@
+- 👋 Hola, Soy Fernando Ipar @MtroFerEscuela19
+- 👀 Soy maestro en la Escuela 19 de Bella Unión - Artigas - Uruguay
+- 🌱 Con mis alumnos nos gusta programar con bloques en Scratch
+- 💞️ También programamos robots con LEGO.
+- 🙋‍♂️ Saludos!!
